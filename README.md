@@ -8,3 +8,4 @@ I am learning GitHub and exploring
 AI tools, automation and technology.
 
 This is my first project.
+I am now learning GitHub branches and pull requests.
